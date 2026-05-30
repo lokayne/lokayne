@@ -1,71 +1,115 @@
-# Hi there, I'm Vashu (lokayne) 👋 
+
+<h1 align="center">
+  <font face="Sans-serif">
+    Vashu Singh
+  </font>
+</h1>
+
+<p align="center">
+  <font face="Sans-serif">
+    [ India ] ⬥ <a href="mailto:lokayne@outlook.com">[ Email ]</a> ⬥ <a href="[https://t.me/xiacce](https://t.me/xiacce)">[ Telegram ]</a>
+  </font>
+</p>
+
+<p align="center">
+  <font face="Sans-serif">
+    🎓 B.Tech Computer Science (Specialization: Cyber Security) ⬥ 🏛️ Graphic Era Deemed University
+  </font>
+</p>
+
+<p align="center">
+  <font face="Sans-serif">
+    ⬥ <a href="#">[ PORTFOLIO WEBSITE ]</a> ⬥ <a href="#">[ HACKTHEBOX PROFILE ]</a> ⬥ <a href="#">[ TRYHACKME PROFILE ]</a> ⬥
+  </font>
+</p>
+
+---
+
+<h2 align="center">
+  <font face="Sans-serif">
+    [ TECHNICAL PROFILE ]
+  </font>
+</h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lokayne&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="lokayne profile views" />
-  
-  <a href="https://t.me/xiacce" target="_blank"><img src="https://img.shields.io/badge/Telegram-Follow-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Follow"></a>
+  <font face="Sans-serif">
+    Cybersecurity professional-in-training focused on technical offensive operations and practical system defense. Developing structured, professional expertise through rigorous certifications (ISC2 CC) and hands-on laboratory environments, prioritizing 'Proof of Work' and real-world tool proficiency.
+  </font>
 </p>
+
+---
+
+<h2 align="center">
+  <font face="Sans-serif">
+    [ PROFESSIONAL TOOLKIT ]
+  </font>
+</h2>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><font face="Sans-serif">⬥ Operating Systems & Scripting</font></h4>
+      <ul>
+        <li><font face="Sans-serif"><b>Linux Environments:</b> Debian-based (Kali, Ubuntu), RHEL-based</font></li>
+        <li><font face="Sans-serif"><b>Languages:</b> Python, Bash, SQL, JavaScript</font></li>
+        <li><font face="Sans-serif"><b>Infrastructure:</b> VPS Management, API Analysis</font></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4><font face="Sans-serif">⬥ Offensive Tooling</font></h4>
+      <ul>
+        <li><font face="Sans-serif"><b>Network Analysis:</b> Nmap, Wireshark, Tcpdump</font></li>
+        <li><font face="Sans-serif"><b>Web Testing:</b> Burp Suite Professional, OWASP ZAP</font></li>
+        <li><font face="Sans-serif"><b>Authentication Auditing:</b> Hydra, Medusa, Hashcat</font></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">
+  <font face="Sans-serif">
+    [ CURRENT FOCUS & ACCOMPLISHMENTS ]
+  </font>
+</h2>
 
 <p align="left">
-  <a href="https://github.com/lokayne">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B51E0&vCenter=true&width=435&lines=Cybersecurity+Aspirant;Linux+VPS+Automation+Bot+Dev;Defensive+Security+Learner" alt="Typing Effect" />
-  </a>
+  <font face="Sans-serif">
+    I am currently dedicated to formalizing my knowledge with the <b>ISC2 Certified in Cybersecurity (CC)</b> curriculum, refining my network security fundamentals and defensive posture. Beyond theory, I consistently engage in:
+  </font>
 </p>
 
-<p align="left">
-  <a href="mailto:lokayne@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+* **TryHackMe & HackTheBox Labs:** Documenting and resolving diverse CTF challenges and vulnerability scenarios.
+* **Automation:** Building customized secure bots and deployment scripts for Linux server optimization.
+
+*(Certifications and significant laboratory milestones will be listed here upon official completion.)*
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lokayne&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="lokayne trophies" />
-  </a>
-</p>
-
----
-
-### 💫 About Me
-An aspiring **Cybersecurity Engineer** and **Computer Science student** focused on understanding digital infrastructure, defensive security monitoring, and secure automation. I bridge the gap between building neat deployment tools and securing networks.
-
-- 🎓 **Education:** Pursuing B.Tech in Computer Science (Specialization in Cybersecurity)
-- 🧪 **Current Focus:** Deep-diving into the **ISC2 Certified in Cybersecurity (CC)** curriculum, Network Security fundamentals, and defensive traffic analysis.
-- 🛠️ **Hands-on Practice:** Actively building labs on TryHackMe, analyzing web targets via PortSwigger, and automating environments using Linux VPS.
-- ⚙️ **Automation Hobby:** I build, optimize, and deploy efficient backend automation bots over Ubuntu servers.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
-| **Security Tooling** | ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=flat-square&logo=wireshark&logoColor=white) `Nmap` `Git/GitHub` |
-| **Languages & Scripting**| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) `SQL` |
-| **Infrastructure** | `Linux VPS` `Server Management` `API Testing` |
-
----
-
-### 📊 GitHub Metrics & Insights
+<h2 align="center">
+  <font face="Sans-serif">
+    [ CONNECT & INQUIRIES ]
+  </font>
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokayne&show_icons=true&theme=tokyonight&count_private=true" alt="Vashu's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokayne&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px"/>
+  <font face="Sans-serif">
+    For technical discussion, collaboration, or professional opportunities:
+  </font>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokayne&theme=tokyonight" alt="GitHub Streak" />
+  <font face="Sans-serif">
+    ✉️ <a href="mailto:lokayne@outlook.com">Vashu Singh</a> ⬥ 📱 <a href="[https://t.me/xiacce](https://t.me/xiacce)">Telegram: @xiacce</a>
+  </font>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- **Telegram:** Direct drop a message at [t.me/xiacce](https://t.me/xiacce)
-- **Professional Email:** Reach out to me via [lokayne@outlook.com](mailto:lokayne@outlook.com)
-
 <p align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+  <font face="Sans-serif">
+    <img src="[https://komarev.com/ghpvc/?username=lokayne&color=1F2937&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=lokayne&color=1F2937&style=for-the-badge&label=PROFILE+VIEWS)" alt="Profile Views" />
+  </font>
 </p>
+
