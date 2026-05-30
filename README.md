@@ -1,76 +1,55 @@
-<h1 align="center">
-  <font face="Sans-serif">── ✧ Vashu Singh ✧ ──</font>
-</h1>
+# Vashu Singh
+### Cybersecurity Undergraduate & Linux Enthusiast
 
-<p align="center">
-  <font face="Sans-serif">
-    <b>Graphic Era Deemed University</b> • B.Tech CSE (Cyber Security) • India
-  </font>
-</p>
-
-<p align="center">
-  <a href="mailto:lokayne@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-lokayne%40outlook.com-1F2937?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=0078D4" alt="Email" />
-  </a>
-  <a href="https://t.me/xiacce" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@xiacce-1F2937?style=for-the-badge&logo=telegram&logoColor=white&color=26A69A" alt="Telegram" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=flat-square" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_TryHackMe-🔥-FF0000?style=flat-square" alt="TryHackMe" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/💀_HackTheBox-🟢-9FE6A0?style=flat-square" alt="HackTheBox" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokayne&color=26A69A&style=flat-square&label=PROFILE+VISITS+ೃ" alt="Views Counter" />
+<p align="left">
+  <a href="mailto:lokayne@outlook.com"><img src="https://img.shields.io/badge/Email-lokayne%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=0078D4" alt="Email" /></a>
+  <a href="https://t.me/xiacce"><img src="https://img.shields.io/badge/Telegram-@xiacce-blue?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram" /></a>
 </p>
 
 ---
 
-### ೃ Technical Architecture & Stack
+## ─── ❖ About Me ❖ ───
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✧ Core Infrastructure & OS</h4>
-      <ul>
-        <li><font face="Sans-serif">Ubuntu Server / Debian-based Linux</font></li>
-        <li><font face="Sans-serif">Linux VPS Configuration & Deployment</font></li>
-        <li><font face="Sans-serif">Bash Scripting & Automation</font></li>
-        <li><font face="Sans-serif">Python Core Development</font></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✧ Offensive Security & Tooling</h4>
-      <ul>
-        <li><font face="Sans-serif">Interception & Auditing: <b>Burp Suite</b></font></li>
-        <li><font face="Sans-serif">Packet & Traffic Analysis: <b>Wireshark</b></font></li>
-        <li><font face="Sans-serif">Network Mapping & Enumeration: <b>Nmap</b></font></li>
-        <li><font face="Sans-serif">Authentication Auditing: <b>Hydra</b></font></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering (Specialization in Cybersecurity)** at **Graphic Era Deemed University**.
+* 📍 Based in **India**.
+* 🌐 Portfolio Website: [lokayne.github.io](https://lokayne.github.io) *(Update link when live)*
+* 🛡️ Deeply interested in penetration testing, network security, and secure system administration.
 
 ---
 
-### ೃ Execution Pipeline & Focus
+## ─── ❖ Technical Skills ❖ ───
 
-* **Lab Infrastructure:** Actively configuring structured testing grounds on TryHackMe and HackTheBox to execute proof-of-concept exploits.
-* **Environment Security:** Auditing system logs and setting up automated processing workflows over clean Linux environments.
+### 🖥️ Operating Systems & Shell
+🔹 `Linux` 🔹 `Ubuntu` 🔹 `Bash Scripting`
 
-<p align="center">
-  <font face="Sans-serif"><i>"Security is a process, not a state."</i></font>
+### 🐍 Languages
+🔹 `Python`
+
+### 🛠️ Tools & Frameworks
+🔹 `Nmap` 🔹 `Burp Suite` 🔹 `Wireshark` 🔹 `Hydra`
+
+---
+
+## ─── ❖ Platforms & Profiles ❖ ───
+
+| Platform | Profile Link |
+| :--- | :--- |
+| **TryHackMe** | [Profile Link Coming Soon](#) |
+| **HackTheBox** | [Profile Link Coming Soon](#) |
+
+> 📑 *Certifications and detailed project write-ups will be updated here systematically or hosted directly on my portfolio website.*
+
+---
+
+## ─── ❖ Metrics & Analytics ❖ ───
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokayne&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&text_color=ffffff&icon_color=0078D4" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokayne&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=ffffff" alt="Top Languages" height="150" />
 </p>
 
+---
+
 <p align="center">
-  <font face="Sans-serif">───────────────────────────────────────</font>
+  👁️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghvc/?username=lokayne&color=0078d4&style=flat-square&label=VIEWS" alt="Profile Views Counter" />
 </p>
