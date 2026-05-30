@@ -1,66 +1,60 @@
-
 <h1 align="center">
-  <font face="Sans-serif">
-    Vashu Singh
-  </font>
+  <font face="Sans-serif">── ✧ Vashu Singh ✧ ──</font>
 </h1>
 
 <p align="center">
   <font face="Sans-serif">
-    [ India ] ⬥ <a href="mailto:lokayne@outlook.com">[ Email ]</a> ⬥ <a href="[https://t.me/xiacce](https://t.me/xiacce)">[ Telegram ]</a>
+    <b>Graphic Era Deemed University</b> • B.Tech CSE (Cyber Security) • India
   </font>
 </p>
 
 <p align="center">
-  <font face="Sans-serif">
-    🎓 B.Tech Computer Science (Specialization: Cyber Security) ⬥ 🏛️ Graphic Era Deemed University
-  </font>
+  <a href="mailto:lokayne@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lokayne%40outlook.com-1F2937?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=0078D4" alt="Email" />
+  </a>
+  <a href="https://t.me/xiacce" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@xiacce-1F2937?style=for-the-badge&logo=telegram&logoColor=white&color=26A69A" alt="Telegram" />
+  </a>
 </p>
 
 <p align="center">
-  <font face="Sans-serif">
-    ⬥ <a href="#">[ PORTFOLIO WEBSITE ]</a> ⬥ <a href="#">[ HACKTHEBOX PROFILE ]</a> ⬥ <a href="#">[ TRYHACKME PROFILE ]</a> ⬥
-  </font>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🎯_TryHackMe-🔥-FF0000?style=flat-square" alt="TryHackMe" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/💀_HackTheBox-🟢-9FE6A0?style=flat-square" alt="HackTheBox" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokayne&color=26A69A&style=flat-square&label=PROFILE+VISITS+ೃ" alt="Views Counter" />
 </p>
 
 ---
 
-<h2 align="center">
-  <font face="Sans-serif">
-    [ TECHNICAL PROFILE ]
-  </font>
-</h2>
+### ೃ Technical Architecture & Stack
 
-<p align="left">
-  <font face="Sans-serif">
-    Cybersecurity professional-in-training focused on technical offensive operations and practical system defense. Developing structured, professional expertise through rigorous certifications (ISC2 CC) and hands-on laboratory environments, prioritizing 'Proof of Work' and real-world tool proficiency.
-  </font>
-</p>
-
----
-
-<h2 align="center">
-  <font face="Sans-serif">
-    [ PROFESSIONAL TOOLKIT ]
-  </font>
-</h2>
-
-<table align="center" border="0">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><font face="Sans-serif">⬥ Operating Systems & Scripting</font></h4>
+      <h4>✧ Core Infrastructure & OS</h4>
       <ul>
-        <li><font face="Sans-serif"><b>Linux Environments:</b> Debian-based (Kali, Ubuntu), RHEL-based</font></li>
-        <li><font face="Sans-serif"><b>Languages:</b> Python, Bash, SQL, JavaScript</font></li>
-        <li><font face="Sans-serif"><b>Infrastructure:</b> VPS Management, API Analysis</font></li>
+        <li><font face="Sans-serif">Ubuntu Server / Debian-based Linux</font></li>
+        <li><font face="Sans-serif">Linux VPS Configuration & Deployment</font></li>
+        <li><font face="Sans-serif">Bash Scripting & Automation</font></li>
+        <li><font face="Sans-serif">Python Core Development</font></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><font face="Sans-serif">⬥ Offensive Tooling</font></h4>
+      <h4>✧ Offensive Security & Tooling</h4>
       <ul>
-        <li><font face="Sans-serif"><b>Network Analysis:</b> Nmap, Wireshark, Tcpdump</font></li>
-        <li><font face="Sans-serif"><b>Web Testing:</b> Burp Suite Professional, OWASP ZAP</font></li>
-        <li><font face="Sans-serif"><b>Authentication Auditing:</b> Hydra, Medusa, Hashcat</font></li>
+        <li><font face="Sans-serif">Interception & Auditing: <b>Burp Suite</b></font></li>
+        <li><font face="Sans-serif">Packet & Traffic Analysis: <b>Wireshark</b></font></li>
+        <li><font face="Sans-serif">Network Mapping & Enumeration: <b>Nmap</b></font></li>
+        <li><font face="Sans-serif">Authentication Auditing: <b>Hydra</b></font></li>
       </ul>
     </td>
   </tr>
@@ -68,48 +62,15 @@
 
 ---
 
-<h2 align="center">
-  <font face="Sans-serif">
-    [ CURRENT FOCUS & ACCOMPLISHMENTS ]
-  </font>
-</h2>
+### ೃ Execution Pipeline & Focus
 
-<p align="left">
-  <font face="Sans-serif">
-    I am currently dedicated to formalizing my knowledge with the <b>ISC2 Certified in Cybersecurity (CC)</b> curriculum, refining my network security fundamentals and defensive posture. Beyond theory, I consistently engage in:
-  </font>
-</p>
-
-* **TryHackMe & HackTheBox Labs:** Documenting and resolving diverse CTF challenges and vulnerability scenarios.
-* **Automation:** Building customized secure bots and deployment scripts for Linux server optimization.
-
-*(Certifications and significant laboratory milestones will be listed here upon official completion.)*
-
----
-
-<h2 align="center">
-  <font face="Sans-serif">
-    [ CONNECT & INQUIRIES ]
-  </font>
-</h2>
+* **Lab Infrastructure:** Actively configuring structured testing grounds on TryHackMe and HackTheBox to execute proof-of-concept exploits.
+* **Environment Security:** Auditing system logs and setting up automated processing workflows over clean Linux environments.
 
 <p align="center">
-  <font face="Sans-serif">
-    For technical discussion, collaboration, or professional opportunities:
-  </font>
+  <font face="Sans-serif"><i>"Security is a process, not a state."</i></font>
 </p>
 
 <p align="center">
-  <font face="Sans-serif">
-    ✉️ <a href="mailto:lokayne@outlook.com">Vashu Singh</a> ⬥ 📱 <a href="[https://t.me/xiacce](https://t.me/xiacce)">Telegram: @xiacce</a>
-  </font>
+  <font face="Sans-serif">───────────────────────────────────────</font>
 </p>
-
----
-
-<p align="center">
-  <font face="Sans-serif">
-    <img src="[https://komarev.com/ghpvc/?username=lokayne&color=1F2937&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=lokayne&color=1F2937&style=for-the-badge&label=PROFILE+VIEWS)" alt="Profile Views" />
-  </font>
-</p>
-
