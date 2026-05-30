@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/lokayne">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&background=00000000&center=false&vCenter=true&width=450&lines=Aspiring+Cybersecurity+Engineer;VPS+Cloud+Deployment;Web+Penetration+Testing;Linux+Server+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&background=00000000&center=false&vCenter=true&width=500&lines=Cybersecurity+Undergraduate;Cloud+Infrastructure+%26+VPS+Hardening;Web+Application+Penetration+Testing;Linux+Server+Automation+%26+Scripting" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,8 +64,8 @@
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokayne&show_icons=true&theme=tokyonight&count_private=true&icon_color=00FFCC&text_color=a9b1d6&bg_color=1a1b26" alt="Vashu's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokayne&layout=compact&theme=tokyonight&hide=html,css&icon_color=00FFCC&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokayne&show_icons=true&theme=tokyonight&icon_color=00ffcc&text_color=a9b1d6&bg_color=1a1b26" alt="Vashu's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokayne&layout=compact&theme=tokyonight&icon_color=00ffcc&text_color=a9b1d6&bg_color=1a1b26&hide=html,css" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
