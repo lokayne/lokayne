@@ -1,4 +1,4 @@
-# Hi there, I'm Vashu Singh 👋
+# Hi there, I'm Vashu Singh 
 
 <p align="left">
   <a href="https://github.com/lokayne">
