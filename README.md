@@ -1,14 +1,12 @@
 # Hi there, I'm Vashu Singh 👋
 
 <p align="left">
-  <!-- Dynamic Typing Text for Dark Theme -->
   <a href="https://github.com/lokayne">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&background=00000000&center=false&vCenter=true&width=450&lines=Aspiring+Cybersecurity+Engineer;VPS+Cloud+Deployment;Web+Penetration+Testing;Linux+Server+Automation" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="left">
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=lokayne&color=00FFCC&style=flat-square" alt="lokayne profile views" />
 </p>
 
@@ -20,17 +18,19 @@
 
 ---
 
-### 🎓 Education & Focus
-* **Degree:** B.Tech in Computer Science & Engineering (Specialization in Cybersecurity)  
-* **Timeline:** 2026 — 2030  
-* **University:** Graphic Era Deemed University  
+### 🎓 Education & Academic Focus
+* **Current Program:** Pursuing Bachelor of Technology (B.Tech) in Computer Science & Engineering  
+* **Specialization:** Cybersecurity and Digital Infrastructure Security  
+* **Institution:** Graphic Era Deemed University  
+* **Academic Timeline:** 2026 — 2030 `[ Undergraduate / In Progress ]`  
+* **Core Focus:** Building a strong foundation in core computer science principles while deeply exploring network architectures, system administration, and defensive security protocols right from the ground up.
 
 ---
 
-### 🛡️ Certifications & Training (Ongoing)
-* 📑 **ISC2** — Certified in Cybersecurity (CC)
-* 🌐 **Cisco Networking Academy** — Networking Fundamentals
-* 🎯 **PortSwigger Web Security Academy** — Web Application Penetration Testing
+### 🛡️ Professional Certifications & Training (In Progress)
+* 📑 **ISC2 — Certified in Cybersecurity (CC)** * *Current Focus:* Deep diving into Access Control, Security Operations, Network Security, and Risk Management frameworks to align with industry-standard security paradigms.
+* 🌐 **Cisco Networking Academy — Networking Fundamentals** * *Current Focus:* Mastering OSI layers, IP routing, packet analysis, and protocols essential for secure data transit and infrastructure defense.
+* 🎯 **PortSwigger Web Security Academy — Web Application Security** * *Current Focus:* Hands-on experimentation with lab environments targeting web vulnerabilities (SQLi, XSS, CSRF) and understanding secure code concepts.
 
 ---
 
@@ -45,9 +45,19 @@
 
 ---
 
-### 🎯 Training Platforms
-* [TryHackMe Profile](https://tryhackme.com/p/your-username-here) <!-- Replace link later -->
-* [HackTheBox Profile](https://app.hackthebox.com/users/your-username-here) <!-- Replace link later -->
+### 🎯 Security Labs & Training Platforms
+
+<p align="left">
+  <a href="https://tryhackme.com/p/your-username-here" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=FF4D4D" alt="TryHackMe">
+  </a>
+  <a href="https://app.hackthebox.com/users/your-username-here" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-212121?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
+  </a>
+</p>
+
+* 🔴 **TryHackMe:** Practicing gamified cyber security labs, focusing on Linux privilege escalation, network mapping, and defensive security concepts.  
+* 🟢 **HackTheBox:** Tackling live penetration testing targets and CTF machines to enhance standalone host analysis and tactical problem-solving.  
 
 ---
 
