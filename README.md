@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/lokayne">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&background=00000000&center=false&vCenter=true&width=500&lines=Cybersecurity+Undergraduate;Cloud+Infrastructure+%26+VPS+Hardening;Web+Application+Penetration+Testing;Linux+Server+Automation+%26+Scripting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFCC&background=00000000&center=false&vCenter=true&width=500&lines=Cybersecurity+Undergraduate;Secure+Cloud+and+SSH+Deployments;Web+Application+Penetration+Testing;Linux+Server+Automation+%26+Scripting" alt="Typing SVG" />
   </a>
 </p>
 
