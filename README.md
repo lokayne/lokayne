@@ -51,7 +51,7 @@
   <a href="https://tryhackme.com/p/your-username-here" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=FF4D4D" alt="TryHackMe">
   </a>
-  <a href="https://app.hackthebox.com/users/your-username-here" target="_blank">
+  <a href="https://profile.hackthebox.com/profile/019e7ccb-3b98-73b0-a428-a428e295fac4" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-212121?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
   </a>
 </p>
