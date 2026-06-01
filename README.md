@@ -10,10 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=lokayne&color=00FFCC&style=flat-square" alt="lokayne profile views" />
 </p>
 
+<!-- 🌐 SOCIAL CONNECT SECTION -->
 <p align="left">
-  <a href="https://t.me/xiacce" target="_blank"><img src="https://img.shields.io/badge/Telegram-212121?style=for-the-badge&logo=telegram&logoColor=00FFCC" alt="Telegram"></a>
-  <a href="mailto:lokayne@outlook.com"><img src="https://img.shields.io/badge/Outlook-212121?style=for-the-badge&logo=microsoftoutlook&logoColor=00FFCC" alt="Outlook"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn"></a>
+  <a href="https://t.me/xiacce" target="_blank" style="text-decoration: none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:lokayne@outlook.com" style="text-decoration: none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="https://linkedin.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -21,7 +28,7 @@
 ### 🎓 Education & Academic Focus
 * **Current Program:** Pursuing Bachelor of Technology (B.Tech) in Computer Science & Engineering  
 * **Specialization:** Cybersecurity and Digital Infrastructure Security  
-* **Institution:** Graphic Era Deemed University  
+* **Institution:** Graphic Era Deemed University
 * **Academic Timeline:** 2026 — 2030 `[ Undergraduate / In Progress ]`  
 * **Core Focus:** Building a strong foundation in core computer science principles while deeply exploring network architectures, system administration, and defensive security protocols right from the ground up.
 
@@ -34,26 +41,40 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠️ Core Tech Stack & Toolkit
 
+<!-- ROW 1: CORE OS & INFRASTRUCTURE -->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/api/icons?i=py,bash,linux,ubuntu,postman,git,github&theme=dark" alt="My Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH" />
 </p>
 
-> **Note:** The dynamic grid above maps directly to your core skill set including programming, core operating systems, deployment environments, and version control workflows.
+<!-- ROW 2: DEVELOPMENT & AUTOMATION -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<!-- ROW 3: CYBERSECURITY SECURITY PARADIGMS -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
 
 ---
 
 ### 🎯 Security Labs & Training Platforms
 
 <p align="left">
-  <a href="https://tryhackme.com/p/your-username-here" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=FF4D4D" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/your-username-here" target="_blank" style="text-decoration: none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="https://profile.hackthebox.com/profile/019e7ccb-3b98-73b0-a428-a428e295fac4" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-212121?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
+  <a href="https://profile.hackthebox.com/profile/019e7ccb-3b98-73b0-a428-a428e295fac4" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" />
   </a>
 </p>
 
