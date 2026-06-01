@@ -34,14 +34,15 @@
 
 ---
 
-### 💻 Technical Skills
+### 💻 Tech Stack & Tools
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-212121?style=flat-square&logo=python&logoColor=00FFCC) ![Bash](https://img.shields.io/badge/Bash-212121?style=flat-square&logo=gnu-bash&logoColor=00FFCC) |
-| **Cloud & Deployment** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-212121?style=flat-square&logo=digitalocean&logoColor=00FFCC) `Linux VPS Hosting` `Server Management` `SSH Automation` |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-212121?style=flat-square&logo=linux&logoColor=00FFCC) ![Ubuntu](https://img.shields.io/badge/Ubuntu-212121?style=flat-square&logo=ubuntu&logoColor=00FFCC) |
-| **Cybersecurity Tooling** | ![BurpSuite](https://img.shields.io/badge/Burp_Suite-212121?style=flat-square&logo=portswigger&logoColor=00FFCC) ![Wireshark](https://img.shields.io/badge/Wireshark-212121?style=flat-square&logo=wireshark&logoColor=00FFCC) `Nmap` `Hydra` |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/api/icons?i=py,bash,linux,ubuntu,postman,git,github&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+> **Note:** The dynamic grid above maps directly to your core skill set including programming, core operating systems, deployment environments, and version control workflows.
 
 ---
 
