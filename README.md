@@ -1,132 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FFCC&height=220&section=header&text=VASHU%20SINGH&fontSize=55&fontColor=00FFCC&fontAlignY=38&animation=fadeIn&desc=Breaking%20systems%20to%20understand%20them.%20Building%20them%20to%20defend%20them.&descAlignY=58&descSize=16&descColor=A9B1D6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:414288,100:7f5af0&height=210&section=header&text=Vashu%20Singh&fontSize=50&fontColor=E4E4F0&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Undergraduate%20%E2%80%A2%20Self-Hosted%20Systems%20%E2%80%A2%20Bot%20Architect&descAlignY=55&descSize=15&descColor=B8B8D1" width="100%"/>
 
 <a href="https://github.com/lokayne">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FFCC&background=00000000&center=true&vCenter=true&width=650&lines=root%40vashu%3A~%23+whoami;Cybersecurity+Undergraduate;Secure+Cloud+%26+SSH+Deployments;Web+Application+Penetration+Tester;Linux+Server+Automation+%26+Scripting;root%40vashu%3A~%23+_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=7F5AF0&background=00000000&center=true&vCenter=true&width=560&lines=Cybersecurity+Undergraduate;Secure+Cloud+%26+SSH+Deployments;Web+Application+Penetration+Testing;Linux+Server+Automation+%26+Scripting" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/status-hacking_the_planet-00FFCC?style=for-the-badge&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=lokayne&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" alt="profile views"/>
+<a href="https://t.me/xiacce"><img src="https://img.shields.io/badge/Telegram-1a1a2e?style=for-the-badge&logo=telegram&logoColor=7F5AF0" /></a>
+<a href="mailto:lokayne@outlook.com"><img src="https://img.shields.io/badge/Outlook-1a1a2e?style=for-the-badge&logo=microsoftoutlook&logoColor=7F5AF0" /></a>
+<a href="https://linkedin.com/in/vashusingh-"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7F5AF0" /></a>
+<a href="https://vashuportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=7F5AF0" /></a>
 
-</div>
+<br><br>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `[ 0x00 ]` &nbsp;Connect
-
-<div align="center">
-
-<a href="https://t.me/xiacce"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:lokayne@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=lokayne&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" alt="lokayne profile views" />
 
 </div>
 
-## `[ 0x01 ]` &nbsp;Education
+<br>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+`Specialization: Cybersecurity & Digital Infrastructure Security`
+
+📍 Graphic Era Deemed University
+🗓️ 2026 — 2030 &nbsp;`[ In Progress ]`
+
+Building a strong foundation in core CS principles while going deep on network architecture, system administration, and defensive security — from the ground up.
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Quick Facts
 
 ```yaml
-program:       B.Tech — Computer Science & Engineering
-specialization: Cybersecurity & Digital Infrastructure Security
-institution:   Graphic Era Deemed University
-timeline:      2026 — 2030   [ undergraduate :: in_progress ]
-core_focus: >
-  Building a strong foundation in core CS principles while going deep on
-  network architecture, system administration, and defensive security —
-  from the ground up, not from a slide deck.
+role:      Cybersecurity Undergrad
+builds:    Telegram / Discord bots
+infra:     Self-hosted VPS (Linux)
+labs:      TryHackMe · HackTheBox
+currently: Breaking things responsibly
 ```
-
-## `[ 0x02 ]` &nbsp;Certifications in Progress
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**📑 ISC2 — CC**
-<sub>Certified in Cybersecurity</sub>
-
-Access Control · Security Ops · Network Security · Risk Management
-
-</td>
-<td width="33%" valign="top">
-
-**🌐 Cisco NetAcad**
-<sub>Networking Fundamentals</sub>
-
-OSI Layers · IP Routing · Packet Analysis · Secure Data Transit
-
-</td>
-<td width="33%" valign="top">
-
-**🎯 PortSwigger**
-<sub>Web Security Academy</sub>
-
-SQLi · XSS · CSRF · Secure Code Concepts
 
 </td>
 </tr>
 </table>
 
-## `[ 0x03 ]` &nbsp;Tech Arsenal
+<br>
+
+### 🛡️ Certifications in Progress
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+**📑 ISC2 — CC**
+<sub>Certified in Cybersecurity</sub>
+<br><br>
+`Access Control` `Security Ops`
+`Risk Management`
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Cisco NetAcad**
+<sub>Networking Fundamentals</sub>
+<br><br>
+`OSI Layers` `IP Routing`
+`Packet Analysis`
+
+</td>
+<td align="center" width="33%">
+
+**🎯 PortSwigger**
+<sub>Web Security Academy</sub>
+<br><br>
+`SQLi` `XSS` `CSRF`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Infrastructure**
+**Systems & Infra**
 <br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Ubuntu-1a1a2e?style=for-the-badge&logo=ubuntu&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/DigitalOcean-1a1a2e?style=for-the-badge&logo=digitalocean&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-1a1a2e?style=for-the-badge&logo=oracle&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/SSH-1a1a2e?style=for-the-badge&logo=openssh&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Nginx-1a1a2e?style=for-the-badge&logo=nginx&logoColor=7F5AF0" />
 
-**Development & Automation**
+<br><br>
+
+**Languages & Frameworks**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnu-bash&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Telegram_API-1a1a2e?style=for-the-badge&logo=telegram&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Discord_API-1a1a2e?style=for-the-badge&logo=discord&logoColor=7F5AF0" />
+
+<br><br>
+
+**Version Control & Tooling**
+<br>
+<img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=7F5AF0" />
+
+<br><br>
 
 **Offensive Security**
 <br>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=portswigger&logoColor=7F5AF0" />
+<img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=7F5AF0" />
 
 </div>
 
-## `[ 0x04 ]` &nbsp;Security Labs
+<br>
+
+### 🎯 Security Labs
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/vashusingh"><img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://profile.hackthebox.com/profile/019e7ccb-3b98-73b0-a428-a428e295fac4"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117" /></a>
+<a href="https://tryhackme.com/p/vashusingh"><img src="https://img.shields.io/badge/TryHackMe-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=7F5AF0" /></a>
+<a href="https://profile.hackthebox.com/profile/019e7ccb-3b98-73b0-a428-a428e295fac4"><img src="https://img.shields.io/badge/HackTheBox-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=7F5AF0" /></a>
 
 </div>
 
 | Platform | Focus |
-|---|---|
+|:---|:---|
 | 🔴 **TryHackMe** | Linux privilege escalation, network mapping, defensive security concepts |
 | 🟢 **HackTheBox** | Live pentesting targets, CTF machines, standalone host analysis |
 
-## `[ 0x05 ]` &nbsp;GitHub Telemetry
+<br>
+
+### 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lokayne&show_icons=true&theme=tokyonight&icon_color=00ffcc&text_color=a9b1d6&title_color=00ffcc&bg_color=0d1117&border_color=00ffcc&hide_border=false" height="165px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokayne&layout=compact&theme=tokyonight&icon_color=00ffcc&text_color=a9b1d6&title_color=00ffcc&bg_color=0d1117&border_color=00ffcc&hide_border=false&hide=html,css" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lokayne&show_icons=true&theme=tokyonight&icon_color=7F5AF0&text_color=B8B8D1&title_color=7F5AF0&bg_color=1a1a2e&border_color=414288" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokayne&layout=compact&theme=tokyonight&icon_color=7F5AF0&text_color=B8B8D1&title_color=7F5AF0&bg_color=1a1a2e&border_color=414288&hide=html,css" height="165px"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokayne&theme=tokyonight&ring=00FFCC&fire=00FFCC&background=0D1117&border=00FFCC&currStreakLabel=00FFCC" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokayne&theme=tokyonight&ring=7F5AF0&fire=7F5AF0&background=1a1a2e&border=414288" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=lokayne&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
+<br>
+
+<img src="https://raw.githubusercontent.com/lokayne/lokayne/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<sub>⚙️ Snake animation activates once the `snake.yml` GitHub Action is added to this repo — ping me if you want that workflow file too.</sub>
+
+<br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:414288,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 <sub>⚡ built, deployed and self-hosted by <b>Vashu</b> — from a VPS somewhere, probably at 3am ⚡</sub>
 
 </div>
+
