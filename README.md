@@ -18,7 +18,8 @@
   <a href="mailto:lokayne@outlook.com" style="text-decoration: none; margin-right: 8px;">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
-  <a href="https://linkedin.com/vashusingh-" target="_blank" style="text-decoration: none;">
+  <a href="www.linkedin.com/in/
+vashusingh-" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
